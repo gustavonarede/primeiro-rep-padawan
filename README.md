@@ -1,2 +1,2 @@
-# primeiro-rep-padawan
+Meu primeiro repositorio javascript
 Formação javascript mestre jedi
